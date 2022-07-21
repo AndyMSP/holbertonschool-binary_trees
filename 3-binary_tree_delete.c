@@ -17,6 +17,5 @@ void binary_tree_delete(binary_tree_t *tree)
 		binary_tree_delete(tree->right);
 	}
 
-	printf("%i\n", tree->n);
 	free(tree);
 }

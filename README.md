@@ -9,5 +9,5 @@
 5. What are the different traversal methods to go through a binary tree
 6. What is a complete, a full, a perfect, a balanced binary tree
 
-![Tree](https://d32qe1r3a676y7.cloudfront.net/eyJidWNrZXQiOiJibG9nLWVjb3RyZWUiLCJrZXkiOiAiYmxvZy8wMDAxLzAxL2FkNDZkYmI0NDdjZDBlOWE2YWVlY2Q2NGNjMmJkMzMyYjBjYmNiNzkuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IDkwMCwiaGVpZ2h0IjowLCJmaXQiOiJjb3ZlciJ9fX0=)
+![Tree](https://thumbs.dreamstime.com/b/old-tree-17409193.jpg)
 
